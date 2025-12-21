@@ -40,7 +40,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/username/stock-forecast-bot.git
+git clone https://github.com/username/stocks-forecast-bot.git
 cd stock-forecast-bot
 ```
 
@@ -58,7 +58,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-*Примечание: Файл `requirements.txt` должен содержать: `python-telegram-bot`, `yfinance`, `pandas`, `numpy`, `scikit-learn`, `statsmodels`, `tensorflow`, `matplotlib`, `scipy`.*
 
 ### 4. Конфигурация
 В файле `config.py` необходимо указать API-токен вашего Telegram-бота:
