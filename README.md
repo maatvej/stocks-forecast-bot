@@ -41,7 +41,7 @@
 ### 1. Клонирование репозитория
 ```bash
 git clone https://github.com/username/stocks-forecast-bot.git
-cd stock-forecast-bot
+cd stocks-forecast-bot
 ```
 
 ### 2. Настройка окружения
