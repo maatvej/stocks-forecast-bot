@@ -1,0 +1,9 @@
+Timestamp: 2025-11-10 22:17:07, UserID: 763881138, Ticker: AAPL, Amount: 1000.0, BestModel: LSTM, RMSE: 7.67, MAPE: 2.46, PotentialProfit: 0.00
+Timestamp: 2025-11-26 09:24:10, UserID: 763881138, Ticker: AAPL, Amount: 100.0, BestModel: LSTM, RMSE: 7.48, MAPE: 2.44, PotentialProfit: 0.00
+Timestamp: 2025-11-26 09:26:58, UserID: 763881138, Ticker: AAPL, Amount: 1000.0, BestModel: LSTM, RMSE: 4.53, MAPE: 1.35, PotentialProfit: 0.00
+Timestamp: 2025-11-26 09:30:33, UserID: 763881138, Ticker: AAPL, Amount: 1000.0, BestModel: LSTM, RMSE: 8.08, MAPE: 2.52, PotentialProfit: 0.00
+2025-11-26 09:44:36 | User: 763881138 | Ticker: AAPL | Sum: $1000.00 | Model: LSTM (Neural Net) | MAPE: 1.96% | Profit: $0.00
+2025-11-26 10:04:34 | User: 763881138 | Ticker: TSLA | Sum: $1000.00 | Model: LSTM (Neural Net) | MAPE: 2.79% | Profit: $176.57
+2025-11-26 10:23:42 | User: 763881138 | Ticker: TSLA | Sum: $2000.00 | Model: LSTM (Neural Net) | RMSE: 14.91 | MAPE: 2.79% | Profit: $0.00
+2025-11-26 10:24:52 | User: 763881138 | Ticker: TSLA | Sum: $2000.00 | Model: LSTM (Neural Net) | RMSE: 15.11 | MAPE: 2.80% | Profit: $0.00
+2025-11-26 10:25:15 | User: 763881138 | Ticker: TSLA | Sum: $1000.00 | Model: LSTM (Neural Net) | RMSE: 14.64 | MAPE: 2.85% | Profit: $19.40
