@@ -1,1 +1,1 @@
-TELEGRAM_TOKEN = "8562165553:AAGxnd-PTtkZza4abobRAUFmo5Alakw1PBw"
+TELEGRAM_TOKEN = "your token"
